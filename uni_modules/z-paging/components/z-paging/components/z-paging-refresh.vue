@@ -107,7 +107,7 @@
 </script>
 
 <style scoped>
-	@import "../css/z-paging-static.css";
+	@use "../css/z-paging-static.css";
 
 	.zp-r-container {
 		/* #ifndef APP-NVUE */

@@ -343,7 +343,7 @@
 </script>
 
 <style lang="scss" scoped>
-	@import '../../libs/css/components.scss';
+	@use '../../libs/css/components.scss';
 
 	$u-numberBox-hover-bgColor: #E6E6E6 !default;
 	$u-numberBox-disabled-color: #c8c9cc !default;

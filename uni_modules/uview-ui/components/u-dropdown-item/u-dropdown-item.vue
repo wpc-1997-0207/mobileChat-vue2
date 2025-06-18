@@ -81,7 +81,7 @@ export default {
     // ��ȡ��ǩ�ĳߴ�λ��
     queryRect(el) {
       // #ifndef APP-NVUE
-      // $uGetRectΪuView�Դ��Ľڵ��ѯ�򻯷���������ĵ����ܣ�https://www.uviewui.com/js/getRect.html
+      // $uGetRectΪuView�Դ��Ľڵ��ѯ������������ĵ����ܣ�https://www.uviewui.com/js/getRect.html
       // ����ڲ�һ����this.$uGetRect�������Ϊthis.$u.getRect�����߹���һ�£����Ʋ�ͬ
       return new Promise(resolve => {
         this.$uGetRect(`.${el}`).then(size => {
@@ -105,7 +105,7 @@ export default {
 </script>
 
 <style lang="scss">
-@import '../../libs/css/components.scss';
+@use '../../libs/css/components.scss';
 
 .u-dropdown {
   

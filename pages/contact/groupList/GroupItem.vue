@@ -43,7 +43,7 @@ export default {
 
     .group_name {
       @include nomalEllipsis();
-	  max-width: 400rpx;
+	   max-width: 400rpx;
     }
 
     .group_details {

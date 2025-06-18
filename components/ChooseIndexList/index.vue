@@ -79,7 +79,7 @@ export default {
 <style scoped lang="scss">
 .user_list {
   flex: 1;
-  ::v-deepuni-scroll-view {
+  ::v-deep uni-scroll-view {
     max-height: 100% !important;
   }
 }

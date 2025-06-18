@@ -5,7 +5,7 @@
     "versionName" : "toc_base_open 3.3.4",
     "versionCode" : 334,
     "transformPx" : false,
-	"sassImplementationName": "node-sass",
+	"sassImplementationName": "dart-sass",
     "app-plus" : {
         "bounce" : "none",
         "usingComponents" : true,

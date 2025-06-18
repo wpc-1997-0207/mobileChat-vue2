@@ -123,7 +123,7 @@ export default {
         .lastest_msg_content {
           flex: 1;
           margin-right: 160rpx;
-          // ::v-deepuni-view {
+          // ::v-deep uni-view {
           @include ellipsisWithLine(1);
           // }
         }

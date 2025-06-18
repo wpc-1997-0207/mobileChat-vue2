@@ -238,7 +238,7 @@ export default {
       padding-left: 44rpx;
     }
 
-    ::v-deep.title {
+    ::v-deep .title {
       width: 200rpx;
       color: #999 !important;
     }

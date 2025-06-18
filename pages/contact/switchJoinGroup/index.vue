@@ -85,7 +85,7 @@ export default {
       }
     }
 
-    ::v-deep .action_item {
+    ::v-deep  .action_item {
       align-items: start;
     }
 

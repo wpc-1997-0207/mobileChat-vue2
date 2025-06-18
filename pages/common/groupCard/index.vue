@@ -281,7 +281,7 @@ export default {
     background-color: #fff;
     margin-bottom: 24rpx;
 
-    ::v-deep .content {
+    ::v-deep  .content {
       color: #adadad;
     }
   }

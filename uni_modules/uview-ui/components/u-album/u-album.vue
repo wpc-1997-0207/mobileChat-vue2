@@ -30,7 +30,7 @@
                         urls.length > rowCount * showUrls.length &&
                         index === showUrls.length - 1 &&
                         index1 === showUrls[showUrls.length - 1].length - 1)" class="play_icon"
-					src="@/static/images/chating_message_video_play.png" />
+					src="/static/images/chating_message_video_play.png" />
 			</view>
 		</view>
 	</view>
@@ -229,7 +229,7 @@
 </script>
 
 <style lang="scss" scoped>
-	@import '../../libs/css/components.scss';
+	@use '../../libs/css/components.scss';
 
 	.u-album {
 		@include flex(column);

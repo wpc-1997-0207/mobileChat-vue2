@@ -110,7 +110,7 @@ export default {
 <style lang="scss" scoped>
 .chating_header {
   border: 2rpx solid #e8eaef;
-  ::v-deep .u-navbar__content__left {
+  ::v-deep  .u-navbar__content__left {
     padding: 0;
   }
 
@@ -170,7 +170,7 @@ export default {
     }
   }
 
-  ::v-deep .u-navbar__content__right {
+  ::v-deep  .u-navbar__content__right {
     padding: 0;
   }
 

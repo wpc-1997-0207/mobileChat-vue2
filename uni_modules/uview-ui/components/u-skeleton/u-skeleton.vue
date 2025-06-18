@@ -182,7 +182,7 @@
 </script>
 
 <style lang="scss" scoped>
-	@import "../../libs/css/components.scss";
+	@use "../../libs/css/components.scss";
 
 	@mixin background {
 		/* #ifdef APP-NVUE */

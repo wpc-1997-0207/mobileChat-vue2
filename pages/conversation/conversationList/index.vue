@@ -125,7 +125,7 @@ export default {
   transform: translate(-50%, -50%);
 }
 
-::v-deep.u-swipe-action-item__right__button__wrapper__text {
+::v-deep .u-swipe-action-item__right__button__wrapper__text {
   -webkit-line-clamp: 2 !important;
   max-width: 32px;
 }

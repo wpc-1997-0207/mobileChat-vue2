@@ -71,11 +71,11 @@ export default {
 
 <style lang="scss" scoped>
 .custom_nav_bar {
-  ::v-deep .u-navbar__content__left {
+  ::v-deep  .u-navbar__content__left {
     padding: 0;
   }
 
-  ::v-deep .u-navbar__content__right {
+  ::v-deep  .u-navbar__content__right {
     padding: 0;
   }
 

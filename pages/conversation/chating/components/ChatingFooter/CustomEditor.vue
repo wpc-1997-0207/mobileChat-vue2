@@ -73,7 +73,7 @@ export default {
   word-break: break-all;
 }
 
-::v-deep.ql-editor {
+::v-deep .ql-editor {
   img {
     vertical-align: sub !important;
   }

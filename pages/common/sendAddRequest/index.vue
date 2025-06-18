@@ -117,7 +117,7 @@ export default {
   }
 
   .input_container {
-    ::v-deep.u-textarea {
+    ::v-deep .u-textarea {
       padding: 24rpx 44rpx !important;
     }
   }

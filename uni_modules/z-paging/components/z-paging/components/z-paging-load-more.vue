@@ -71,7 +71,7 @@
 </script>
 
 <style scoped>
-	@import "../css/z-paging-static.css";
+	@use "../css/z-paging-static.css";
 
 	.zp-l-container {
 		height: 80rpx;

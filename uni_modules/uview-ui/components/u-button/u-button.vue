@@ -291,14 +291,14 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import "../../libs/css/components.scss";
+@use "../../libs/css/components.scss";
 
 /* #ifndef APP-NVUE */
-@import "./vue.scss";
+@use "./vue.scss";
 /* #endif */
 
 /* #ifdef APP-NVUE */
-@import "./nvue.scss";
+@use "./nvue.scss";
 /* #endif */
 
 $u-button-u-button-height: 40px !default;

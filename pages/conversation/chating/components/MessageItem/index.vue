@@ -239,7 +239,7 @@ export default {
     }
   }
 
-  ::v-deep.emoji_display {
+  ::v-deep .emoji_display {
     width: 24px;
     height: 18px;
     vertical-align: sub;

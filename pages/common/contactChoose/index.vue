@@ -206,7 +206,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-::v-deep.u-popup {
+::v-deep .u-popup {
   flex: none;
 }
 .contact_choose_container {
@@ -262,7 +262,7 @@ export default {
       .member_list {
         flex: 1;
         height: 80% !important;
-        ::v-deepuni-scroll-view {
+        ::v-deep uni-scroll-view {
           max-height: 100% !important;
         }
       }

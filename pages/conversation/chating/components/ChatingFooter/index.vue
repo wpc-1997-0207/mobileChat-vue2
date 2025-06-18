@@ -318,7 +318,7 @@ export default {
     color: #666;
 
     .content {
-      ::v-deep uni-view {
+      ::v-deep  uni-view {
         @include ellipsisWithLine(2);
       }
     }

@@ -107,7 +107,7 @@
 </script>
 
 <style lang="scss" scoped>
-	@import '../../libs/css/components.scss';
+	@use '../../libs/css/components.scss';
      $u-back-top-flex:1 !default;
      $u-back-top-height:100% !default;
      $u-back-top-background-color:#E1E1E1 !default;

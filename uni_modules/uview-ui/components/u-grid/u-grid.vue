@@ -79,7 +79,7 @@
 </script>
 
 <style lang="scss" scoped>
-	@import "../../libs/css/components.scss";
+	@use "../../libs/css/components.scss";
      $u-grid-width:100% !default;
 	.u-grid {
 		/* #ifdef MP */

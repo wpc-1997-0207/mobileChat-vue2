@@ -146,7 +146,7 @@
 </script>
 
 <style lang="scss" scoped>
-	@import "../../libs/css/components.scss";
+	@use "../../libs/css/components.scss";
 
 	// 变量定义
 	$u-icon-primary: $u-primary !default;

@@ -304,6 +304,6 @@ by ZXLee
 <script src="./js/z-paging-main.js" />
 	
 <style scoped>
-	@import "./css/z-paging-main.css";
-	@import "./css/z-paging-static.css";
+	@use "./css/z-paging-main.css";
+	@use "./css/z-paging-static.css";
 </style>

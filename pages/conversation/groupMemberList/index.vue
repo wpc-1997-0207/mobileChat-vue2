@@ -303,7 +303,7 @@ export default {
     padding: 24rpx 44rpx;
   }
 
-  ::v-deep.u-popup {
+  ::v-deep .u-popup {
     flex: none;
   }
 
